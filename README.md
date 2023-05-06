@@ -101,4 +101,11 @@ Once you done creating your admin user, you will be greeted by the dashboard.
 And we are done, we not have our API backend set up.
 
 Told you, two minutes.
-# strapi-remix-coding-addict-course
+
+## Let's Explore Remix Frontend Code and Setup Tailwind.
+
+There is a lot to talk about here, but we will just focus on the basics and learn things as needed.  
+
+Let's take a look at our `app` folder and the `root.tsx` file and then explore our `routes` folder.
+
+![App Folder](images/app-folder.png)
